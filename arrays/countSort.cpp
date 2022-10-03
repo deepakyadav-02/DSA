@@ -1,6 +1,7 @@
 // Counting sort in C++ programming
 
 #include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
 
 void countSort(int array[], int size) {
