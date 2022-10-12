@@ -1,0 +1,1 @@
+{"name":"Local: linearsearch","url":"/Users/deepakyadav/Documents/projects/DSA/arrays/linearsearch.cpp","tests":[{"id":1665577208118,"input":"4\n10\n20\n30\n40\n10","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/deepakyadav/Documents/projects/DSA/arrays/linearsearch.cpp","group":"local","local":true}
