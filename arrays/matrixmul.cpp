@@ -86,11 +86,8 @@ int main()
         for (int j = 0; j < m; j++)
         {
             cout << ans[i][j] << " ";
-            /* code */
         }
         cout << endl;
-
-        /* code */
     }
 
     return 0;
